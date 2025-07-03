@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --watchAll --verbose ",
-    "start":"node index.js"
+    "start": "node index.js"
   },
   "engines": {
-    "node":"22.16.0"
+    "node": "22.16.0"
   },
   "keywords": [],
   "author": "",
@@ -17,6 +17,7 @@
     "bcryptjs": "^3.0.2",
     "compression": "^1.8.0",
     "config": "^1.29.4",
+    "dotenv": "^17.0.1",
     "express": "^4.16.2",
     "express-async-errors": "^2.1.0",
     "fawn": "^2.1.5",
