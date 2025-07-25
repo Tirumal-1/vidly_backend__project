@@ -1,4 +1,4 @@
-# 🎬 Vidly - Video Rental App
+# 🎬 Vidly - backend project
 
 Vidly is a full-stack web application for managing a video rental store. It allows users to browse and rent movies, while admins can manage genres, movies, customers, and rentals. This project was created for learning and practicing modern web development using Node.js, Express, MongoDB.
 
